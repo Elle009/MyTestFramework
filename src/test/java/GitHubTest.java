@@ -1,25 +1,41 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.util.concurrent.TimeUnit;
+import java.util.ArrayList;
+import java.util.List;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class GitHubTest {
-    private WebDriver driver;
+public class GitHubTest extends BaseTest {
 
     @Test
-    public void successfulLoginTest() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\EleonoraBulhakova\\IdeaProjects\\MyTestFramework\\src\\main\\resources\\drivers\\chromedriver.exe");
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        driver.get("https://github.com/");
+    public void checkLogoOnTheLoginPage() {
+        HomePage homePage = new HomePage(driver);
+        assertTrue(homePage.goToLoginPage().getLogo().isDisplayed(), "Logo is not displayed");
+    }
 
-        
+    @Test
+    public void checkFailedLogin() {
+        HomePage homePage = new HomePage(driver);
+        homePage.goToLoginPage();
+        LoginPage loginPage = new LoginPage(driver);
+        loginPage.loginFailed("Elle009", "000");
+        loginPage.validateErrorMessage("Incorrect username or password.");
+    }
+
+    @Test
+    public void checkAddingNewIssue() {
+        HomePage homePage = new HomePage(driver);
+        homePage.goToLoginPage();
+        LoginPage loginPage = new LoginPage(driver);
+        loginPage.loginSuccessful("eleonorabulhakova@ukr.net", "eleonora1q2w#E");
+        MainPage mainPage = new MainPage(driver);
+        mainPage.getLogoOnTheMainPage();
+        Assertions.assertTrue(mainPage.getLogoOnTheMainPage().isDisplayed());
+        mainPage.goToIssuePage();
+        IssuePage issuePage = new IssuePage(driver);
+        Assertions.assertTrue(issuePage.getNewIssueButton().isDisplayed());
+        issuePage.createNewIssue();
     }
 }
-//
