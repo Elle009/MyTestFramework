@@ -37,6 +37,7 @@ public class LoginPage extends BasePage {
         driver.findElement(loginFieldLocator).sendKeys(login);
         driver.findElement(passwordFieldLocator).sendKeys(password);
         driver.findElement(signInButtonLocator).click();
+        logger.info("Successful authorization");
         return this;
     }
 }
