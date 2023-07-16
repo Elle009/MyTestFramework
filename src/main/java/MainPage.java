@@ -8,9 +8,10 @@ public class MainPage extends BasePage {
     By imgLocator = By.xpath("//img[@class='avatar circle'][1]");
     By goToRepositoryButton = By.xpath("//div [@class='wb-break-word']/child::a[@href=\"/EleonoraBulhakova/testRepository\"]");
     By issueButton = By.id("issues-tab");
+    private final static String TITLE="Main page";
 
     public MainPage(WebDriver driver) {
-        super(driver);
+        super(driver, TITLE);
     }
 
     public WebElement getLogoOnTheMainPage() {

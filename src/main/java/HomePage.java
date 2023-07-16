@@ -1,15 +1,15 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.elementToBeClickable;
 
 public class HomePage extends BasePage {
 
     private By signInButtonLocator = By.xpath("//a[contains(text(), \"Sign in\")]");
+    private final static String TITLE="Home page";
 
     public HomePage(WebDriver driver) {
-        super(driver);
+        super(driver, TITLE);
     }
 
     public LoginPage goToLoginPage() {
