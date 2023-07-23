@@ -18,4 +18,14 @@ public class RepositoriesPage extends BasePage {
         List<String> repositList = repositoriesList.stream().map(rep -> rep.getText()).collect(Collectors.toList());
         return repositList;
     }
+
+    By repoTest2 = By.xpath("//a[contains(text(), 'test2')]");
+    By repoTest1 = By.xpath("//a[contains(text(), 'test1')]");
+    By repoTestRepo = By.xpath("//a[contains(text(), 'testRepository')]");
+    public RepositoriesPage getRepositoriesText(){
+        driver.findElement(repoTest2).getText();
+        driver.findElement(repoTest1).getText();
+        driver.findElement(repoTestRepo).getText();
+        return this;
+    }
 }

@@ -1,9 +1,9 @@
 import api.Address;
 import api.BaseApiTest;
 import io.restassured.http.ContentType;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.testng.Assert;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
 
 import java.io.File;
 import java.util.HashMap;
@@ -14,12 +14,11 @@ import static io.restassured.RestAssured.given;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;
 import static org.hamcrest.Matchers.equalTo;
 
-
 public class APITest extends BaseApiTest {
     String API_key = "0b96db29f63e534a6ad01512969cd309";
     Map<String, Object> reqBody = new HashMap<>();
 
-    @BeforeEach
+    @BeforeMethod
     public void setReqBody() {
         Map<String, String> methodProperties = new HashMap<>();
         methodProperties.put("CityName", "Київ");
@@ -100,6 +99,6 @@ public class APITest extends BaseApiTest {
                 .body().jsonPath().getList("data[0].Addresses", Address.class);
 
         System.out.println(addressList);
-        addressList.forEach(x -> Assertions.assertTrue(x.getPresent().contains("Київ")));
+        addressList.forEach(x -> Assert.assertTrue(x.getPresent().contains("Київ")));
     }
 }

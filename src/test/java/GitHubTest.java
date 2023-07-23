@@ -1,9 +1,10 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+import org.testng.Assert;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.testng.Assert.assertTrue;
 
 public class GitHubTest extends BaseTest {
 
@@ -35,13 +36,35 @@ public class GitHubTest extends BaseTest {
         MainPage mainPage = new MainPage(driver);
         logger.info("User is successfully gone to Main page");
         mainPage.getLogoOnTheMainPage();
-        Assertions.assertTrue(mainPage.getLogoOnTheMainPage().isDisplayed());
+        Assert.assertTrue(mainPage.getLogoOnTheMainPage().isDisplayed());
         mainPage.goToIssuePage();
         IssuePage issuePage = new IssuePage(driver);
-        Assertions.assertTrue(issuePage.getNewIssueButton().isDisplayed());
+        Assert.assertTrue(issuePage.getNewIssueButton().isDisplayed());
         issuePage.createNewIssue();
         logger.info("checkAddingNewIssue Test passed successfully");
     }
 
+    @DataProvider(name = "RepositoriesList")
+    public Object[][] provideRepoList() {
+        return new Object[][]{
+                {"test2"},
+                {"test1"},
+                {"testRepository"}
+        };
+    }
+
+    @Test(dataProvider = "RepositoriesList")
+    public void checkRepositoriesListParametrized(String repo) {
+
+        HomePage homePage = new HomePage(driver);
+        homePage.goToLoginPage().loginSuccessful("eleonorabulhakova@ukr.net", "eleonora1q2w#E");
+        MainPage mainPage = new MainPage(driver);
+        mainPage.goToProfileForm().goToRepositoriesPage();
+        RepositoriesPage repositoriesPage = new RepositoriesPage(driver);
+        repositoriesPage.getRepositoriesText();
+        Assert.assertEquals(repo, "test2");
+        Assert.assertEquals(repo, "test1");
+        Assert.assertEquals(repo, "testRepository");
+    }
 }
 

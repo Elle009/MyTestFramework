@@ -1,9 +1,9 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 import java.util.concurrent.TimeUnit;
 
@@ -11,7 +11,7 @@ public class BaseTest {
 
     protected WebDriver driver;
 protected Logger logger;
-    @BeforeEach
+    @BeforeMethod
     public void setUp() {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\EleonoraBulhakova\\IdeaProjects\\MyTestFramework\\src\\main\\resources\\drivers\\chromedriver1.exe");
         Logger logger = LogManager.getLogger();
@@ -23,7 +23,7 @@ protected Logger logger;
         driver.get("https://github.com");
     }
 
-    @AfterEach
+    @AfterMethod
     public void tearDown() {
         driver.quit();
     }

@@ -1,7 +1,7 @@
-import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 
 public class LoginPage extends BasePage {
 
@@ -22,7 +22,7 @@ public class LoginPage extends BasePage {
     }
 
     public LoginPage validateErrorMessage(String expectedMessage) {
-        Assertions.assertEquals(expectedMessage, driver.findElement(errorTextLocator).getText());
+        Assert.assertEquals(expectedMessage, driver.findElement(errorTextLocator).getText());
         return this;
     }
 
