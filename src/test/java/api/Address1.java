@@ -3,7 +3,6 @@ package api;
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import org.openjdk.nashorn.internal.objects.annotations.Getter;
 
 @JsonDeserialize(as = Address1.class)
 public class Address1 {
@@ -93,107 +92,106 @@ public class Address1 {
         this.indexCOATSU1 = indexCOATSU1;
     }
 
-    @Getter
+
     public String getRef() {
         return ref;
     }
 
-    @Getter
     public String getSettlementType() {
         return settlementType;
     }
 
-    @Getter
+
     public String getLatitude() {
         return latitude;
     }
 
-    @Getter
+
     public String getLongitude() {
         return longitude;
     }
 
-    @Getter
+
     public String getDescription() {
         return description;
     }
 
-    @Getter
+
     public String getDescriptionRu() {
         return descriptionRu;
     }
 
-    @Getter
+
     public String getDescriptionTranslit() {
         return descriptionTranslit;
     }
 
-    @Getter
+
     public String getSettlementTypeDescription() {
         return settlementTypeDescription;
     }
 
-    @Getter
+
     public String getSettlementTypeDescriptionRu() {
         return settlementTypeDescriptionRu;
     }
 
-    @Getter
+
     public String getSettlementTypeDescriptionTranslit() {
         return settlementTypeDescriptionTranslit;
     }
 
-    @Getter
+
     public String getRegion() {
         return region;
     }
 
-    @Getter
+
     public String getRegionsDescription() {
         return regionsDescription;
     }
 
-    @Getter
+
     public String getRegionsDescriptionRu() {
         return regionsDescriptionRu;
     }
 
-    @Getter
+
     public String getRegionsDescriptionTranslit() {
         return regionsDescriptionTranslit;
     }
 
-    @Getter
+
     public String getArea() {
         return area;
     }
 
-    @Getter
+
     public String getAreaDescription() {
         return areaDescription;
     }
 
-    @Getter
+
     public String getAreaDescriptionRu() {
         return areaDescriptionRu;
     }
 
-    @Getter
+
     public String getAreaDescriptionTranslit() {
         return areaDescriptionTranslit;
     }
 
-    @Getter
+
     public String getIndex1() {
         return index1;
     }
 
-    @Getter
+
     public String getIndex2() {
         return index2;
     }
 
-    @Getter
+
     public String getIndexCOATSU1() {
         return indexCOATSU1;
     }

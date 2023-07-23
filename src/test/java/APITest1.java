@@ -1,9 +1,9 @@
 import api.Address1;
 import api.BaseApiTest;
 import io.restassured.http.ContentType;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.testng.Assert;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
 
 import java.io.File;
 import java.util.HashMap;
@@ -19,7 +19,7 @@ public class APITest1 extends BaseApiTest {
     String API_key = "0b96db29f63e534a6ad01512969cd309";
     Map<String, Object> reqBody = new HashMap<>();
 
-    @BeforeEach
+    @BeforeMethod
     public void setReqBody() {
         reqBody.put("apiKey", API_key);
         reqBody.put("modelName", "Address");
@@ -88,6 +88,6 @@ public class APITest1 extends BaseApiTest {
                 .body().jsonPath().getList("data[0].Description", Address1.class);
 
         System.out.println(addressList);
-        addressList.forEach(x -> Assertions.assertTrue(x.getDescription().contains("Абазівка")));
+        addressList.forEach(x -> Assert.assertTrue(x.getDescription().contains("Абазівка")));
     }
 }

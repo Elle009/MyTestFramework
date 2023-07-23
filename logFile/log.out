@@ -1,0 +1,478 @@
+13:45:25 16.07.2023 Home page: INFO - [1;34mPageHome pageHomePage[0m
+13:45:25 16.07.2023 Home page: INFO - [0;31mPageHome pageHomePage[0m
+13:45:26 16.07.2023 Login page: INFO - [1;34mPageLogin pageLoginPage[0m
+13:45:26 16.07.2023 Login page: INFO - [0;31mPageLogin pageLoginPage[0m
+13:46:12 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:46:12 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:46:12 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:46:12 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:50:45 16.07.2023 Home page: INFO - [0;32mPage object of Home pageHomePage[0m
+13:50:45 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:50:45 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:50:45 16.07.2023 Login page: INFO - [0;32mPage object of Login pageLoginPage[0m
+13:50:45 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:50:45 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:50:45 16.07.2023 Login page: INFO - [0;32mPage object of Login pageLoginPage[0m
+13:50:45 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:50:45 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:51:45 16.07.2023 Home page: INFO - [0;32mPage object of Home pageHomePage[0m
+13:51:45 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:51:45 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:51:45 16.07.2023 Login page: INFO - [0;32mPage object of Login pageLoginPage[0m
+13:51:45 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:51:45 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:54:13 16.07.2023 Home page: INFO - [0;32mPage object of Home pageHomePage[0m
+13:54:13 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:54:13 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:54:14 16.07.2023 Login page: INFO - [0;32mPage object of Login pageLoginPage[0m
+13:54:14 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:54:14 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:56:08 16.07.2023 Home page: INFO - [0;32mPage object of Home pageHomePage[0m
+13:56:08 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:56:08 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:56:08 16.07.2023 Login page: INFO - [0;32mPage object of Login pageLoginPage[0m
+13:56:08 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:56:08 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:56:38 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:56:38 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:56:38 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:56:38 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:56:38 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:56:38 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:57:22 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:57:22 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:57:22 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:57:22 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:57:22 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:57:22 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:57:23 16.07.2023 Login page: INFO - Successful authorization
+14:03:30 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:03:31 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:03:33 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:03:33 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:03:33 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:03:33 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:03:33 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:03:33 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:03:34 16.07.2023 Login page: INFO - Successful authorization
+14:05:58 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:05:59 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:06:01 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:06:01 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:06:01 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:06:01 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:06:01 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:06:01 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:06:02 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:06:02 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:06:02 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:06:02 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:06:26 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:06:27 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:06:28 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:06:28 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:06:29 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:06:29 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:06:29 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:06:29 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:06:30 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:06:30 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:06:30 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:06:30 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:07:59 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:08:00 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:08:01 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:08:01 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:08:02 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:08:02 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:08:02 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:08:02 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:08:03 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:08:03 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:08:03 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:08:03 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:10:03 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:10:04 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:10:06 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:10:06 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:10:06 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:10:06 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:10:06 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:10:06 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:10:07 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:10:07 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:10:07 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:10:07 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:10:08 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:10:08 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:10:08 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:10:08 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:11:27 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:11:28 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:11:30 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:11:30 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:11:30 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:11:30 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:11:30 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:11:30 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:11:32 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:11:32 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:11:32 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:11:32 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:11:58 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:11:59 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:12:00 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:12:00 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:12:00 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:12:00 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:12:00 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:12:00 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:12:02 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:12:02 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:12:02 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:12:02 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:12:02 16.07.2023 GitHubTest: INFO - 467645
+14:12:03 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:12:03 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:12:03 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:12:03 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:14:07 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:14:09 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:14:10 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:14:10 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:14:10 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:14:10 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:14:10 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:14:10 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:14:11 16.07.2023 Login page: INFO - Successful authorization
+14:14:11 16.07.2023 GitHubTest: INFO - checkFailedLogin passed successfully
+14:14:27 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:14:28 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:14:29 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:14:29 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:14:29 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:14:29 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:14:29 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:14:29 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:14:31 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:14:31 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:14:31 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:14:31 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:14:31 16.07.2023 GitHubTest: INFO - User is successfully gone to Main page
+14:14:32 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:14:32 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:14:32 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:14:32 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:17:41 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:17:42 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:17:43 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:17:43 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:17:43 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:17:43 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:17:43 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:17:43 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:17:45 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:17:45 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:17:45 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:17:45 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:17:45 16.07.2023 GitHubTest: INFO - User is successfully gone to Main page
+14:17:46 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:17:46 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:17:46 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:17:46 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:17:49 16.07.2023 GitHubTest: INFO - checkAddingNewIssue Test passed successfully
+14:18:04 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:18:05 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:18:06 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:18:06 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:18:07 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:18:07 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:18:07 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:18:07 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:18:07 16.07.2023 Login page: INFO - Successful authorization
+14:18:07 16.07.2023 GitHubTest: INFO - checkFailedLogin passed successfully
+14:27:06 16.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+14:27:08 16.07.2023 BaseTest: INFO - Chrome driver object creation is created
+14:27:09 16.07.2023 GitHubTest: INFO - checkAddingNewIssue Test is starting
+14:27:09 16.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+14:27:09 16.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+14:27:09 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:27:09 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:27:09 16.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+14:27:09 16.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+14:27:10 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:27:10 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:27:10 16.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+14:27:10 16.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+14:27:10 16.07.2023 GitHubTest: INFO - User is successfully gone to Main page
+14:27:11 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:27:11 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:27:11 16.07.2023 Issue page: INFO - [1;34mPage object of Issue pageIssuePage[0m
+14:27:11 16.07.2023 Issue page: INFO - [0;31mPage object of Issue pageIssuePage[0m
+14:27:14 16.07.2023 GitHubTest: INFO - checkAddingNewIssue Test passed successfully
+15:52:55 22.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+15:52:56 22.07.2023 BaseTest: INFO - Chrome driver object creation is created
+15:52:58 22.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+15:52:58 22.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+15:52:58 22.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+15:52:58 22.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+15:52:58 22.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+15:52:58 22.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+15:52:59 22.07.2023 Login page: INFO - Successful authorization
+15:52:59 22.07.2023 GitHubTest: INFO - checkFailedLogin passed successfully
+17:41:51 22.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+17:41:52 22.07.2023 BaseTest: INFO - Chrome driver object creation is created
+17:41:54 22.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+17:41:54 22.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+17:41:54 22.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+17:41:54 22.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+17:41:55 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:41:55 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:41:55 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:41:55 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:41:56 22.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+17:41:56 22.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+17:41:56 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:41:56 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:41:57 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:41:57 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:43:55 22.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+17:43:56 22.07.2023 BaseTest: INFO - Chrome driver object creation is created
+17:43:58 22.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+17:43:58 22.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+17:43:58 22.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+17:43:58 22.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+17:43:59 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:43:59 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:43:59 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:43:59 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:43:59 22.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+17:43:59 22.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+17:43:59 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:43:59 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:44:01 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:44:01 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:44:37 22.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+17:44:38 22.07.2023 BaseTest: INFO - Chrome driver object creation is created
+17:44:40 22.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+17:44:40 22.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+17:44:40 22.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+17:44:40 22.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+17:44:41 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:44:41 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:44:41 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:44:41 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:44:41 22.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+17:44:41 22.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+17:44:41 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:44:41 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:44:43 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:44:43 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:47:54 22.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+17:47:55 22.07.2023 BaseTest: INFO - Chrome driver object creation is created
+17:47:56 22.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+17:47:56 22.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+17:47:57 22.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+17:47:57 22.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+17:47:58 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:47:58 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:47:58 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:47:58 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:47:58 22.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+17:47:58 22.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+17:47:58 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:47:58 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:48:40 22.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+17:48:40 22.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+17:48:59 22.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+17:49:00 22.07.2023 BaseTest: INFO - Chrome driver object creation is created
+17:49:01 22.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+17:49:01 22.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+17:49:01 22.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+17:49:01 22.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+17:49:03 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:49:03 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:49:03 22.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+17:49:03 22.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+17:49:03 22.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+17:49:03 22.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+00:43:38 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+00:43:39 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+00:43:41 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+00:43:41 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+00:43:41 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+00:43:41 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+00:43:42 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+00:43:42 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+00:43:42 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+00:43:42 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+00:43:43 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+00:43:43 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+00:43:43 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+00:43:43 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+00:43:44 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+00:43:44 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+00:43:44 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+00:43:45 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+00:43:46 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+00:43:46 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+00:43:46 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+00:43:46 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+00:43:48 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+00:43:48 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+00:43:48 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+00:43:48 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+00:43:48 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+00:43:48 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+00:43:48 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+00:43:48 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+00:43:49 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+00:43:49 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+00:43:49 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+00:43:50 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+00:43:51 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+00:43:51 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+00:43:51 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+00:43:51 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+00:43:53 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+00:43:53 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+00:43:53 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+00:43:53 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+00:43:53 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+00:43:53 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+00:43:53 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+00:43:53 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+00:43:54 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+00:43:54 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:55:09 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:55:10 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:55:11 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:55:11 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:55:11 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:55:11 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:55:13 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:55:13 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:55:13 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:55:13 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:55:13 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:55:13 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:55:13 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:55:13 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:55:14 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:55:14 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:55:14 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:55:15 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:55:16 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:55:16 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:55:16 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:55:16 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:55:17 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:55:17 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:55:17 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:55:17 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:55:17 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:55:17 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:55:17 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:55:17 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:55:18 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:55:18 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:55:18 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:55:19 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:55:20 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:55:20 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:55:20 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:55:20 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:55:21 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:55:21 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:55:21 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:55:21 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:55:21 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:55:21 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:55:21 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:55:21 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:55:22 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:55:22 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:56:46 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:56:47 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:56:48 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:56:48 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:56:48 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:56:48 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:56:49 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:56:49 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:56:49 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:56:49 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:56:49 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:56:49 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:56:50 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:56:50 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:56:51 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:56:51 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:56:51 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:56:51 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:56:52 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:56:52 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:56:53 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:56:53 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:56:54 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:56:54 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:56:54 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:56:54 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:56:54 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:56:54 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:56:54 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:56:54 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:56:55 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:56:55 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:56:55 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:56:56 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:56:57 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:56:57 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:56:57 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:56:57 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:56:58 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:56:58 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:56:58 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:56:58 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:56:58 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:56:58 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:57:57 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:57:58 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:57:59 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:57:59 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:57:59 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:57:59 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:58:01 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:58:01 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:58:01 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:58:01 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:58:01 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:58:01 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:58:01 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:58:01 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:58:02 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:58:02 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:58:03 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:58:03 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:58:04 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:58:04 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:58:04 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:58:04 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:58:04 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:58:04 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m
+13:58:04 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:58:04 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:58:05 23.07.2023 Repositories page: INFO - [1;34mPage object of Repositories pageRepositoriesPage[0m
+13:58:05 23.07.2023 Repositories page: INFO - [0;31mPage object of Repositories pageRepositoriesPage[0m
+13:58:05 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+13:58:06 23.07.2023 BaseTest: INFO - Chrome driver object creation is created
+13:58:07 23.07.2023 Home page: INFO - [1;34mPage object of Home pageHomePage[0m
+13:58:07 23.07.2023 Home page: INFO - [0;31mPage object of Home pageHomePage[0m
+13:58:07 23.07.2023 Login page: INFO - [1;34mPage object of Login pageLoginPage[0m
+13:58:07 23.07.2023 Login page: INFO - [0;31mPage object of Login pageLoginPage[0m
+13:58:08 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:58:08 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:58:08 23.07.2023 Main page: INFO - [1;34mPage object of Main pageMainPage[0m
+13:58:08 23.07.2023 Main page: INFO - [0;31mPage object of Main pageMainPage[0m
+13:58:08 23.07.2023 Profile form page: INFO - [1;34mPage object of Profile form pageProfileForm[0m
+13:58:08 23.07.2023 Profile form page: INFO - [0;31mPage object of Profile form pageProfileForm[0m

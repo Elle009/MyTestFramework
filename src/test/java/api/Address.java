@@ -3,8 +3,6 @@ package api;
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import org.openjdk.nashorn.internal.objects.annotations.Getter;
-import org.openjdk.nashorn.internal.objects.annotations.Setter;
 
 
 @JsonDeserialize(as = Address.class)
@@ -57,145 +55,78 @@ public class Address {
         this.RegionTypesCode = regionTypesCode;
     }
 
-    @Getter
+
     public String getPresent() {
         return Present;
     }
 
-    @Setter
+
     public void setPresent(String present) {
         Present = present;
     }
 
-    @Getter
+
     public Integer getWarehouses() {
         return Warehouses;
     }
 
-    @Setter
-    public void setWarehouses(Integer warehouses) {
-        Warehouses = warehouses;
-    }
 
-    @Getter
     public String getMainDescription() {
         return MainDescription;
     }
 
-    @Setter
-    public void setMainDescription(String mainDescription) {
-        MainDescription = mainDescription;
-    }
-
-    @Getter
     public String getArea() {
         return Area;
     }
 
-    @Setter
-    public void setArea(String area) {
-        Area = area;
-    }
-
-    @Getter
     public String getRegion() {
         return Region;
     }
 
-    @Setter
-    public void setRegion(String region) {
-        Region = region;
-    }
-
-    @Getter
     public String getSettlementTypeCode() {
         return SettlementTypeCode;
     }
 
-    @Setter
-    public void setSettlementTypeCode(String settlementTypeCode) {
-        SettlementTypeCode = settlementTypeCode;
-    }
 
-    @Getter
     public String getRef() {
         return Ref;
     }
 
-    @Setter
-    public void setRef(String ref) {
-        Ref = ref;
-    }
 
-    @Getter
     public String getDeliveryCity() {
         return DeliveryCity;
     }
 
-    @Setter
-    public void setDeliveryCity(String deliveryCity) {
-        DeliveryCity = deliveryCity;
-    }
 
-    @Getter
     public Boolean getAddressDeliveryAllowed() {
         return AddressDeliveryAllowed;
     }
 
-    @Setter
-    public void setAddressDeliveryAllowed(Boolean addressDeliveryAllowed) {
-        AddressDeliveryAllowed = addressDeliveryAllowed;
-    }
 
-    @Getter
     public Boolean getStreetsAvailability() {
         return StreetsAvailability;
     }
 
-    @Setter
-    public void setStreetsAvailability(Boolean streetsAvailability) {
-        StreetsAvailability = streetsAvailability;
-    }
 
-    @Getter
     public String getParentRegionTypes() {
         return ParentRegionTypes;
     }
 
-    @Setter
-    public void setParentRegionTypes(String parentRegionTypes) {
-        ParentRegionTypes = parentRegionTypes;
-    }
 
-    @Getter
     public String getParentRegionCode() {
         return ParentRegionCode;
     }
 
-    @Setter
-    public void setParentRegionCode(String parentRegionCode) {
-        ParentRegionCode = parentRegionCode;
-    }
 
-    @Getter
     public String getRegionTypes() {
         return RegionTypes;
     }
 
-    @Setter
-    public void setRegionTypes(String regionTypes) {
-        RegionTypes = regionTypes;
-    }
 
-    @Getter
     public String getRegionTypesCode() {
         return RegionTypesCode;
     }
 
-    @Setter
-    public void setRegionTypesCode(String regionTypesCode) {
-        RegionTypesCode = regionTypesCode;
-    }
 
     @Override
     public String toString() {
